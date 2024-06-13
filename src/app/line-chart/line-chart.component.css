@@ -1,0 +1,29 @@
+#line {
+  padding: 30px;
+  display: block;
+  height: 100%;
+  width: 100%
+}
+
+::ng-deep .tooltip.hidden {
+  display: none;
+}
+
+::ng-deep .tooltip table {
+  border: 2px solid #000000;
+  border-radius: 5px;
+}
+
+::ng-deep .tooltip th {
+  padding: 5px 20px;
+  background: #CCC;
+}
+
+::ng-deep .tooltip tbody {
+  background: #FFFFFF;
+}
+
+::ng-deep .tooltip tr td {
+  padding: 5px 20px;
+  border: 1px solid #000000;
+}

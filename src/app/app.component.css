@@ -1,0 +1,19 @@
+:host ::ng-deep .c3-ygrid-line.target-line line {
+  stroke: red;
+}
+
+:host ::ng-deep .c3-ygrid-line.target-line text {
+  stroke: red;
+}
+
+.chart {
+  width: 50%;
+}
+
+.screen-time-graph {
+  display: flex;
+}
+
+.chart-container {
+  height: 400px;
+}
